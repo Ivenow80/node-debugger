@@ -10,7 +10,7 @@ items.forEach((item) => {
       console.log("Found a null item");
 
     } else {
-      results.push(parseInt(item));
+      result.push(parseInt(item));
     
     }
 });
